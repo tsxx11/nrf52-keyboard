@@ -21,8 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include <stdint.h>
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID 0x1209 /* USB VID */
-#define PRODUCT_ID 0x0514 /* USB PID */
+#define VENDOR_ID 0x4348 /* USB VID */
+#define PRODUCT_ID 0x55E0 /* USB PID */
 #define DEVICE_VER 0x0001 /* 硬件版本 */
 #define MANUFACTURER "hxs" /* 硬件制造商，用于蓝牙显示 */
 #define PRODUCT "hxs_keyboard" /* 硬件名称，用于USB和蓝牙显示 */
