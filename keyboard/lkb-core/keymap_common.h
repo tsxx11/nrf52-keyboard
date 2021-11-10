@@ -40,5 +40,5 @@ extern const action_t fn_actions[];
 	{ K200,   KC_NO,   K202,   K203,   K204,   K205,   K206,   K207,   K208,   K209,   K20A,   K20B,   K20C,   K20D,   K20E,   K20F }, \
 	{ K300,   KC_NO,   K302,   K303,   K304,   K305,   K306,   K307,   K308,   K309,   K30A,   K30B,   K30C,   KC_NO,   K30E,   K30F }, \
 	{ KC_NO,   K401,   K402,   K403,   K404,   K405,   K406,   K407,   K408,   K409,   K40A,   K40B,   KC_NO,   K40D,  K40E,   K40F }, \
-	{ K500,   K501,   K502,   K503,   KC_NO,   K505,   KC_NO,   K507,   KC_NO,   K509,   K50A,   K50B,  KC_NO,   K50D,  K50E,   K50F } \	
+	{ K500,   K501,   K502,   K503,   KC_NO,   K505,   KC_NO,   K507,   KC_NO,   K509,   K50A,   K50B,  KC_NO,   K50D,  K50E,   K50F } \
 }
