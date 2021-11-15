@@ -21,7 +21,7 @@ EXTRAKEY_ENABLE = yes	# 启用媒体键功能
 NKRO_ENABLE = yes	# 启用USB的全键无冲功能
 USB_6KRO_ENABLE = yes # 启用USB的六键无冲功能
 MOUSEKEY_ENABLE = yes # 启用鼠标键功能
-
+THREE_LED_STATUS_EVT = yes
 NRF52_DISABLE_FPU = yes # 禁用FPU
 ONBOARD_CMSIS_DAP = yes # 启用板载调试器
 
