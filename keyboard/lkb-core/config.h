@@ -94,9 +94,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define LED_CAPS 23
 // #define LED_SCLK 23
 // #define LED_POSITIVE // LED上拉驱动
-#define LED_STATUS_BLE 21 // 蓝牙连接指示灯
-#define LED_STATUS_CHARGING 22 // 充电指示灯
-#define LED_STATUS_USB 23 // USB连接状态指示灯
 // USB UART 传输配置
 #define HAS_USB // 启用与CH554的通信支持
 #define UART_RXD 30 // UART_RX口IO
